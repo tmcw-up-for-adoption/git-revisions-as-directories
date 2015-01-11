@@ -13,8 +13,8 @@
     "type": "git",
     "url": "https://github.com/tmcw/git-revisions-as-directories.git"
   },
-  "scripts": {
-    "git-revisions-as-directories": "git-revisions-as-directories"
+  "bin": {
+    "git-revisions-as-directories": "git-revisions-as-directories.sh"
   },
   "author": "Tom MacWright",
   "license": "ISC",
