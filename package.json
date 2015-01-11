@@ -1,0 +1,25 @@
+{
+  "name": "git-revisions-as-directories",
+  "version": "1.0.0",
+  "description": "separately check out revisions of a git repo into a directory",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmcw/git-revisions-as-directories.git"
+  },
+  "scripts": {
+    "git-revisions-as-directories": "git-revisions-as-directories"
+  },
+  "author": "Tom MacWright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmcw/git-revisions-as-directories/issues"
+  },
+  "homepage": "https://github.com/tmcw/git-revisions-as-directories"
+}

@@ -1,3 +1,4 @@
 # git revisions as directories
 
-nothing to see here, move along
+Separately copy every revision of a git repository into a directory named
+after the timestamp of the revision.
